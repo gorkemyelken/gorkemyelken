@@ -38,6 +38,12 @@
 <br/>  
 <div align="center"> 
 
+![snake gif](https://github.com/gorkemyelken/gorkemyelken/blob/output/github-contribution-grid-snake.gif)
+</div>
+<div align="center"> 
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d5ekwkfxgapvqfgx9gyuutct7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=d5ekwkfxgapvqfgx9gyuutct7&redirect=true)
 </div>
 <br/>  
+
+
