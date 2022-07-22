@@ -9,7 +9,7 @@
 <a href="mailto:gorkemyelken@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <a href="https://instagram.com/grkmylkn" target="_blank">
-<img src="https://img.shields.io/badge/instagram-230000?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<img src="https://img.shields.io/badge/instagram-23000000?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </a>
 </p></div>  
 <br/>  
