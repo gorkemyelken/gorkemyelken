@@ -3,7 +3,15 @@
 </div>  
 
 # <div align="center">Hi 👋, I'm Görkem.</div>
-<div align="center"><p>📫 How to reach me <a href="mailto:gorkemyelken@gmail.com" target="blank">gorkemyelken@gmail.com</a></p></div>  
+<div align="center"><p>
+<a href="https://linkedin.com/in/gorkemyelken/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
+<a href="mailto:gorkemyelken@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+<a href="https://instagram.com/grkmylkn" target="_blank">
+<img src="https://img.shields.io/badge/instagram-230000?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+</a>
+</p></div>  
 <br/>  
 
 ## <div align="center">Skills</div>  
