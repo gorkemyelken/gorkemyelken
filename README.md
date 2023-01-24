@@ -35,7 +35,7 @@
   </tr>
 </table>  
 <br/>   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemyelken&show_icons=true&locale=en&layout=compact" alt="gorkemyelken" /></p>
+
 <div align="center"> 
 
 ![snake gif](https://github.com/gorkemyelken/gorkemyelken/blob/output/github-contribution-grid-snake.gif)
