@@ -37,6 +37,8 @@
 
 ###
 
+###
+
 <div align="center"> 
 
 ![snake gif](https://github.com/gorkemyelken/gorkemyelken/blob/output/github-contribution-grid-snake.gif)
