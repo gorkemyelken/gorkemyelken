@@ -37,15 +37,6 @@
 
 ###
 
-###
-
-<div align="center"> 
-
-![snake gif](https://github.com/gorkemyelken/gorkemyelken/blob/output/github-contribution-grid-snake.gif)
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/gorkemyelken/count.svg?"  />
 </div>
